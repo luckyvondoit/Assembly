@@ -1,0 +1,13 @@
+一、可执行文件的格式
+1.PE
+Windows平台（比如exe文件）
+
+2.ELF
+Linux平台、Android平台
+
+3.Mach-O
+Mac、iOS平台
+
+二、序列号破解
+1.找到序列号
+2.暴力破解
